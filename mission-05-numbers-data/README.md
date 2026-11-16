@@ -80,12 +80,10 @@ functions to show both forms. Text works the same way: each character has a
 number code, and encodings like ASCII and UTF-8 define those codes.
 
 ## 5. Difficulties faced
-No major difficulties. [Or write a real one, e.g. forgetting to read the
-remainders from bottom to top, or typing letters into the converter and
-getting a ValueError.]
+No major difficulties. ]
 
 ## 6. How I resolved them
-Not applicable. [Or explain your fix.]
+Not applicable.
 
 ## 7. Evidence / files
 - mission-05-numbers-data/number_converter.py
