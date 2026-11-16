@@ -63,3 +63,39 @@ Homebrew 7.0.14
 Why Package managers are useful ?
 
 A package manager like homebrew lets me install software with a single command instead of searching for a website and downloading an installer by hand. It also makes updating and removing software easy and clean , because it keeps track of what it installed and where. On top of that , it automatically installs the other software a package depends on , so I don't have to find those extra pieces myself.
+
+## 3. Commands / tools used
+- pwd, ls, ls -l, ls -lah: show location and listings.
+- cd, mkdir, touch, cp, mv, cat: move around, create, copy, rename and read.
+- echo with > and >>: replace or add text in a file.
+- | and head: pipe output and show only the first lines.
+- brew --version and brew list: check Homebrew [if installed].
+- Git (status, add, commit, push): saved and uploaded the mission.
+
+
+
+
+
+
+## 4. My understanding
+Terminal commands let me manage files by typing instructions. I learned the
+difference between replacing and appending text, copying and moving files,
+and how flags and pipes change or combine commands. Package managers make
+installing and updating software simpler and safer than manual downloads.
+
+## 5. Difficulties faced
+homebrew lists wernt showing
+homebrew had some issue showing the status of update. 
+
+## 6. How I resolved them
+Not applicable.
+
+## 7. Evidence / files
+- mission-02-terminal/README.md
+- terminal-practice/ (notes.txt, notes-renamed.txt, practice.txt,
+  practice-backup-renamed.txt)
+- Outputs have my username and device name replaced with [redacted].
+
+## 8. Commit details
+- Commit message: Complete Terminal and file management mission
+- Pushed to GitHub: Yes [only after you have checked GitHub]
