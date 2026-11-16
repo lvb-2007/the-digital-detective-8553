@@ -52,6 +52,7 @@ absolute path - the full addres strating fro the root/
 relative path - address where you ar e currently 
 mission-03-operating-system
 
+# task 3.4
 In the ls -l output, find a line like -rw-r--r--. The first character is the file type, and the next three (rw-) are the owner’s permissions: read yes, write yes, execute no (-). Write what you actually see.
 
 r (Read)	The file’s contents can be read	Opening a text file
