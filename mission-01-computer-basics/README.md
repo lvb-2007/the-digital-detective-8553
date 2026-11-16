@@ -1,3 +1,11 @@
+# Mission 1 — Know your computer
+
+## 1. Task / objective
+Explain how a computer takes input, processes data, gives output and stores
+information (IPOS), and identify hardware, software and everyday
+computer-based systems.
+
+## 2. Work completed
 ### Task 1.1 — IPOS trace
 Activity chosen: typing and saving a note in VS Code.
 
@@ -35,3 +43,34 @@ only kept permanently when I save it, because that writes it to the SSD
 | ATM | Lets people withdraw cash and check their balance | Card and PIN | Cash dispensed |
 | Smart TV | Plays video and streaming content | Remote control button press | Picture and sound |
 | Traffic signal | Controls the flow of vehicles at a junction | Timer or vehicle sensor | Red, yellow or green light |
+
+
+## 3. Commands / tools used
+- VS Code: used to write this README.
+- git status, git add, git commit, git push: checked, saved and uploaded
+  this mission's work.
+- No Terminal commands were needed for the tasks themselves.
+
+## 4. My understanding
+- IPOS: input is how data enters, processing is the CPU working on it,
+  output is what I see or hear, and storage is where it is kept.
+- Hardware is the physical parts, and software is the programs that run on
+  them.
+- Operating system software (macOS) manages the computer, application
+  software (VS Code, Chrome) helps me do tasks, and utility software
+  (Activity Monitor) helps maintain or manage the computer.
+- RAM is temporary and is cleared when power is off, while the SSD keeps
+  data, which is why saving matters.
+
+## 5. Difficulties faced
+No major difficulties.
+
+## 6. How I resolved them
+Not applicable.
+
+## 7. Evidence / files
+-mission-01-computer-basics/README.md (
+
+## 8. Commit details
+- Commit message: Complete computer basics and IPOS mission
+- Pushed to GitHub: Yes 
